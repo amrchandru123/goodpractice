@@ -31,4 +31,16 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>readfile/exam-results-list-excel-table.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/welcome/Downloads/exam-results-list-excel-table.xlsx</location>
+		</link>
+		<link>
+			<name>readfile/list-countries-world-25j.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/welcome/Downloads/list-countries-world-25j.xlsx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
